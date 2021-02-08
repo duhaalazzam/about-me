@@ -44,8 +44,9 @@ if (play) {
     if ((questionOne === 'milan' || questionOne === 'acmilan') && (questionTwo === 'mansaf') && (questionThree === 'irbid' || questionThree === 'irbed') && (questionFour === 'se' || questionFour === 'software' || questionFour === 'computer'|| questionFour==='software engineering')) {
         document.getElementById('myFavTeam').innerHTML = questionOne;
         document.getElementById('myFavFood').innerHTML = questionTwo;
-        document.getElementById('myCites').innerHTML = questionFour;
-        document.getElementById('myBcDegree').innerHTML = questionThree;
+        document.getElementById('myCites').innerHTML = questionThree;
+        document.getElementById('myBcDegree').innerHTML = questionFour;
+        document.getElementById('myName').innerHTML='Mohmmad Alazzam';
         document.getElementById('aboutMeTable').style.display = 'block';
     }
     else {
