@@ -6,5 +6,5 @@
 
 
 Made with ♥ by Mohmmad Alazzam as a part of  ASAC Student .
-I was Navigator on:[this repo](https://github.com/MohdAzzam/project201-1)
-I was Driver on: [this repo](https://github.com/duhaalazzam/about-me)
+I was Navigator on:[this repo](https://github.com/MohdAzzam/about-me/pull/2)
+I was Driver on: [this repo](https://github.com/duhaalazzam/project201-1/pull/1)
