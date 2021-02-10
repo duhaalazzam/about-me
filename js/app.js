@@ -126,6 +126,7 @@ if (play) {
     }
     questionSeven = prompt('try agin');
   }
+  alert(`this is all my fav series ${series}`);
   if (counter < 4) {
     alert('You Got '+counter+'should play again :p');
   } else {
